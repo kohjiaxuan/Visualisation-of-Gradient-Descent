@@ -24,5 +24,5 @@ Please refer to the main notebook itself for further analysis and other visualis
 ## Libraries used
 numpy and pandas for calculations and structuring data results, and matplotlib (2D and 3D) for visualisation purposes
 
-## Potential Improvements
+## Future Developments
 matplotlib graphs can be animated using Python libraries. I aim to do up the animation GIF for the gradient descent which will make it more visually appealing and understandable
