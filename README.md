@@ -1,5 +1,5 @@
 # Visualisation-of-Gradient-Descent
-1. By visualizing the gradient descent algorithm applied on a set of points that fits a quadratic equation, we understand better how the algorithm works. This is essential to understand how machine learning and numerous Python libraries work under te hood
+1. By visualizing the gradient descent algorithm applied on a set of points that fits a quadratic equation, we understand better how the algorithm works. This is essential to understand how machine learning and numerous Python libraries work under the hood
 2. Latest file is <b>FINAL. Gradient Descent with quadratic equation variable learning rate.ipynb</b> modified on 9 Jun 2019
 3. Inspiration of this project was in <b>BA. ODE Equation solving with Pandas (Midpoint Method).ipynb</b>, which aimed to apply Euler/Midpoint Method (first order approximation) via numpy and pandas library
 4. Older versions of Juypter Notebook are named in alphabetical order (BA to BBH)
@@ -23,3 +23,6 @@ Please refer to the main notebook itself for further analysis and other visualis
 
 ## Libraries used
 numpy and pandas for calculations and structuring data results, and matplotlib (2D and 3D) for visualisation purposes
+
+## Potential Improvements
+matplotlib graphs can be animated using Python libraries. I aim to do up the animation GIF for the gradient descent which will make it more visually appealing and understandable
